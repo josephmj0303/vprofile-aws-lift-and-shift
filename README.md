@@ -54,13 +54,14 @@ vprofile-aws-lift-and-shift/
 │
 ├── architecture/
 │   ├── aws-lift-shift-architecture.png
-│   ├── execution-flow.md
+│   └── execution-flow.md
 │
 ├── userdata-scripts/
 │   ├── tomcat-userdata.sh
 │   ├── mysql-userdata.sh
 │   ├── memcache-userdata.sh
 │   ├── rabbitmq-userdata.sh
+│   └── nginx-userdata.sh
 │
 ├── dns-route53/
 │   └── private-zone-mapping.md
@@ -82,7 +83,7 @@ vprofile-aws-lift-and-shift/
     ├── app-home.png
     ├── cache-hit.png
     ├── cache-miss.png
-    ├── rabbitmq.png
+    └── rabbitmq.png
 ```
 
 ---
