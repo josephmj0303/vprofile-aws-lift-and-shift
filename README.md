@@ -1,4 +1,10 @@
 # AWS Lift & Shift Deployment – VProfile Application
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-Compute-orange?logo=amazonaws)
+![S3](https://img.shields.io/badge/Amazon%20S3-Storage-green?logo=amazonaws)
+![Route53](https://img.shields.io/badge/Route53-DNS-blue?logo=amazonaws)
+![ELB](https://img.shields.io/badge/Elastic%20Load%20Balancer-Scaling-yellow?logo=amazonaws)
+![AutoScaling](https://img.shields.io/badge/Auto%20Scaling-Dynamic-purple?logo=amazonaws)
 
 ## Overview
 This repository demonstrates a real-world **Lift & Shift migration** of a multi-tier Java web application (**VProfile**) from a traditional VM-based environment to **AWS Cloud (IaaS)**.
