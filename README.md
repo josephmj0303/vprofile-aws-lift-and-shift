@@ -102,10 +102,20 @@ Each backend component has a dedicated script.
 ## Application Validation
 
 The application was validated with:
-- Successful login and navigation
+- Successful login
+![App_login](screenshots/app_login.png)
+
+- App Homepage
+![App_home](screenshots/app_home.png)
+
 - Cache miss → DB read → cache insert
+![Cache_miss](screenshots/cache_miss.png)
+
 - Cache hit on subsequent requests
+![Cache_hit](screenshots/cache_hit.png)
+
 - RabbitMQ initialization with queues and exchanges
+![RabbitMQ_Initiated](screenshots/rabbitmq.png)
 
 Screenshots are included for **application-level validation**.
 
